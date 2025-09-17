@@ -1,0 +1,10 @@
+{
+  "Age": 35,
+  "Monthly_Income": 3500,
+  "Loan_Amount": 20000,
+  "Outstanding_Loan_Amount": 12000,
+  "Monthly_EMI": 450,
+  "Num_Missed_Payments": 2,
+  "Days_Past_Due": 45,
+  "Payment_History": "Average"
+}
