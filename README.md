@@ -118,7 +118,7 @@ Then execute cells top‑to‑bottom. The Plotly charts are interactive in Jupyt
 
 ## 🧰 Tech Stack
 
-- **Python** (3.10+) • **pandas** • **scikit‑learn** • **Plotly** • **Jupyter Notebook**
+- **Python** (3.10+) • **pandas** • **scikit‑learn** • **Plotly** • **Jupyter Notebook** • **Google Colab**
 
 ---
 
