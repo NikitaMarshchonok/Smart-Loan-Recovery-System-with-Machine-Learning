@@ -63,7 +63,7 @@ The notebook expects a CSV named **`loan-recovery.csv`** with columns like:
 
 ## 🧠 Methodology
 
-```mermaid
+```
 flowchart LR
   A[CSV: loan-recovery.csv] --> B[EDA & Cleaning]
   B --> C[Scaling: StandardScaler]
